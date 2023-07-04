@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("this is contained in my second commit");
-        System.out.println("Change 2");
+        System.out.println("Change 4");
         System.out.println("This line will be merged");
     }
 }
