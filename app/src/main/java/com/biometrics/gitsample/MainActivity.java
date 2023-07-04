@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("this is contained in my second commit");
-        System.out.println("Experimental");
+        System.out.println("Change 2");
     }
 }
